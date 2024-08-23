@@ -14,4 +14,5 @@
 <p>Podemos também carregar imagens que estão em outra pasta, contanto que ela esteja dentro da pasta atual.</p>
  <img src="css3.jpg" alt="Logo das CSS3">
   <p>Também podemos carregar imagens externas, e para isso devemos ter a sua URL completa.</p>
- 
+  <img src="https://www.jsdotgit.com/js-small.gif" alt="Logo de JavaScript">
+</body>
